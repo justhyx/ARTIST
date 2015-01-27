@@ -1,1 +1,0 @@
-java -jar dbml2uml.jar config.xml
